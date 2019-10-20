@@ -9,7 +9,6 @@ import {
 import DrawerLayout from "react-native-gesture-handler/DrawerLayout";
 const { height } = Dimensions.get("screen");
 import Drawer from '../components/Drawer';
-
 const styles = StyleSheet.create({
   container: {
      height,

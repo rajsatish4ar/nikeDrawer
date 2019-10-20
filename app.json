@@ -3,17 +3,18 @@
     "name": "Nike Drawer",
     "slug": "NikeDrawer",
     "privacy": "public",
+    "description":"A new Drawer, Design inspired by https://dribbble.com/shots/7239829-Nike-UI-Animation",
+    "githubUrl":"https://github.com/rajsatish4ar/nikeDrawer",
     "sdkVersion": "35.0.0",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/shoes/nike_logo.png",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/shoes/nike_logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },

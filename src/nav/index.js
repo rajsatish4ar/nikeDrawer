@@ -11,7 +11,7 @@ export default createAppContainer(
         SecondApp
       },
       {
-        initialRouteName: 'FirstApp',
+        initialRouteName: 'App',
         defaultNavigationOptions:{
           header:null
         },
